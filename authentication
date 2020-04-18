@@ -1,0 +1,10 @@
+mongo.host=localhost
+mongo.port=27017
+mongo.user=
+mongo.pswd=
+
+sdb.host=localhost
+sdb.port=11810
+sdb.user=sdbadmin
+sdb.pswd=sdbadmin
+sdb.domain=
